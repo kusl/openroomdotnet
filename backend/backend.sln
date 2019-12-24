@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{E
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BL", "BL\BL.csproj", "{15702C56-B029-4EB2-A6BB-0FC82E56AA0C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{2E9EA232-47B2-4356-9711-C0FBBBBD31CE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -58,5 +60,17 @@ Global
 		{15702C56-B029-4EB2-A6BB-0FC82E56AA0C}.Release|x64.Build.0 = Release|Any CPU
 		{15702C56-B029-4EB2-A6BB-0FC82E56AA0C}.Release|x86.ActiveCfg = Release|Any CPU
 		{15702C56-B029-4EB2-A6BB-0FC82E56AA0C}.Release|x86.Build.0 = Release|Any CPU
+		{2E9EA232-47B2-4356-9711-C0FBBBBD31CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E9EA232-47B2-4356-9711-C0FBBBBD31CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E9EA232-47B2-4356-9711-C0FBBBBD31CE}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{2E9EA232-47B2-4356-9711-C0FBBBBD31CE}.Debug|x64.Build.0 = Debug|Any CPU
+		{2E9EA232-47B2-4356-9711-C0FBBBBD31CE}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{2E9EA232-47B2-4356-9711-C0FBBBBD31CE}.Debug|x86.Build.0 = Debug|Any CPU
+		{2E9EA232-47B2-4356-9711-C0FBBBBD31CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E9EA232-47B2-4356-9711-C0FBBBBD31CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E9EA232-47B2-4356-9711-C0FBBBBD31CE}.Release|x64.ActiveCfg = Release|Any CPU
+		{2E9EA232-47B2-4356-9711-C0FBBBBD31CE}.Release|x64.Build.0 = Release|Any CPU
+		{2E9EA232-47B2-4356-9711-C0FBBBBD31CE}.Release|x86.ActiveCfg = Release|Any CPU
+		{2E9EA232-47B2-4356-9711-C0FBBBBD31CE}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
