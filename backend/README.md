@@ -1,0 +1,1 @@
+dotnet ef dbcontext scaffold 'Data Source=localhost;Database=Openroom;Trusted_Connection=True;' Microsoft.EntityFrameworkCore.SqlServer --project .\DAL\DAL.csproj --table PATRON --table RESOURCE --table RESERVATION  --force --context-dir Contexts --output-dir Contexts\Models -d
